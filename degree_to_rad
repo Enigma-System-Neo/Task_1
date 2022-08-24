@@ -1,0 +1,13 @@
+public class DegreetoRadian{
+
+    public static void main(String args[]){
+
+    double degrees=55;
+
+    double degtor=degrees*(3.1416/180);
+
+    System.out.println(degrees+" degree is equals to "+degtor+" radian");
+
+    }
+
+}
